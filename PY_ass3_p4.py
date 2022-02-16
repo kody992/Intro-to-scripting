@@ -92,6 +92,7 @@ if __name__ == "__main__":
         student_List.remove(smallest_Value)
         sorted_Student_List.remove(smallest_Value)
         sorted_Student_List.append(smallest_Value)
-#was unable to solve this error in time will work on again another time         
+#was unable to solve this error in time will work on again another time
+#rest of the code works but the sorting kept failing
 
     
