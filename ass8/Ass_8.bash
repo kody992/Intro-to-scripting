@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 #Question 1: Print numbers from 1 to 15 using while, until, for. 
